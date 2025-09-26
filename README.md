@@ -78,14 +78,6 @@ O trabalho seguiu as seguintes etapas:
 
 ---
 
-## 🔮 Próximos Passos
-
-- Criar dashboard interativo no **Power BI** com previsões reais vs. previstas.  
-- Avaliar variáveis externas (clima, macroeconomia, eventos locais).  
-- Automatizar pipeline para atualização periódica das previsões.  
-
----
-
 ## 👩‍💻 Autor
 
 **Gabriel Dilay de Oliveira**  
