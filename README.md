@@ -1,6 +1,6 @@
 # 📊 Previsão de Faturamento - Rossmann Store Sales
 
-Este repositório contém o **MVP (Minimum Viable Project)** desenvolvido para a pós-graduação em Data Science & Analytics, cujo objetivo foi aplicar técnicas de aprendizado de máquina e séries temporais para prever o faturamento da rede de lojas Rossmann.  
+Este repositório contém o **MVP** desenvolvido para a pós-graduação em Data Science & Analytics, cujo objetivo foi aplicar técnicas de aprendizado de máquina e séries temporais para prever o faturamento da rede de lojas Rossmann.  
 
 O projeto cobre desde a preparação e exploração dos dados até a avaliação de diferentes algoritmos, análise de variáveis relevantes e consolidação de previsões em níveis diário, mensal e semestral.
 
