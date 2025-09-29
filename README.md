@@ -14,12 +14,13 @@ Construir e avaliar modelos capazes de prever o faturamento das lojas Rossmann, 
 
 ## 📂 Estrutura do Projeto
 
-- `notebook.ipynb` → Notebook principal no Google Colab (com todo o fluxo do MVP).  
-- `train.csv`, `test.csv`, `store.csv` → Dados utilizados (disponíveis no [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales)).  
+- [`notebook.ipynb` no Google Colab](https://colab.research.google.com/drive/1ukgaX1b5_F6I6mL2NxgOv4EL4HLBX5J9?usp=sharing) → Notebook principal com todo o fluxo do MVP.  
+- `train.zip`, `test.csv`, `store.csv` → Dados utilizados (disponíveis no repositório).  
 - `xgb_diario_tunado.pkl` → Modelo final salvo (XGBoost diário tunado).  
 - `xgb_importances_gain.csv` → Importância das variáveis extraída do modelo.  
 
 ---
+
 
 ## 🛠️ Metodologia
 
@@ -71,10 +72,11 @@ O trabalho seguiu as seguintes etapas:
 
 ## 📌 Conclusões
 
-- Modelos baseados em árvores (**XGBoost, Random Forest**) são mais eficazes para previsões granulares de faturamento.  
-- A regressão regularizada (**Ridge**) se mostrou robusta para análises agregadas (mensais/semestrais).  
-- Promoções e número de clientes são os principais **drivers de crescimento**.  
-- O MVP cumpre todos os requisitos acadêmicos e também se apresenta como uma solução aplicável ao mercado, podendo ser integrado em dashboards (ex.: **Power BI**).  
+-Modelos baseados em árvores (XGBoost, Random Forest) são mais eficazes para previsões granulares de faturamento.
+-A regressão regularizada (Ridge) se mostrou robusta para análises agregadas (mensais/semestrais).
+-Promoções e número de clientes são os principais drivers de crescimento.
+-O MVP cumpre todos os requisitos acadêmicos e também se apresenta como uma solução aplicável ao mercado, podendo ser integrado em dashboards (ex.: Power BI).
+-Os resultados demonstram o potencial do Machine Learning aplicado a negócios reais, apoiando decisões em pricing, promoções e expansão de rede.
 
 ---
 
